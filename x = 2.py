@@ -1,3 +1,3 @@
 dolls = 5
 
-print("There are " + dolls + " dolls")
+print("There are " + str(dolls) + " dolls")
