@@ -9,12 +9,12 @@ Description: Madlib Assignment
 
 print("Please enter the following: ")
 
-Adj : input("adjective: ")
-animal1 : input("animal: ")
-verb1 : input("verb: ")
-exclamation1 : input("exclamation: ")
-verb2 : input("verb: ")
-verb3 : input("verb: ")
+Adj = input("adjective: ")
+animal1 = input("animal: ")
+verb1 = input("verb: ")
+exclamation1 = input("exclamation: ")
+verb2 = input("verb: ")
+verb3 = input("verb: ")
 
 print("Your story is ")
 
